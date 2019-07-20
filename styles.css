@@ -16,3 +16,14 @@
   width: 100%;
   padding: 20px;
 }
+
+#mute {
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  border: 1px solid #000;
+  background-size: cover;
+}
